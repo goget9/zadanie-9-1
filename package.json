@@ -1,0 +1,16 @@
+{
+  "name": "zadanie-7-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init-project": "mkdir js css images && touch js/scripts.js index.html css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.23.5"
+  }
+}
